@@ -2,7 +2,7 @@
 
 JS first steps. Getting to know Github Issue-Tracker, Git, JS and Atom.
 
-- [Milestones](https://github.com/onlyjedis/dojo-1/milestones).
+- [Milestones](https://github.com/onlyjedis/dojo-1/milestones)
 - [Role model](http://localtodos.com/)
 
 ## Ressources/Tools
