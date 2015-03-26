@@ -1,3 +1,3 @@
 # dojo *web-jitsu*
 
-So you are going to learn web-jitsu? Start with [level 1](https://github.com/onlyjedis/dojo-web/tree/level-1).
+So you are going to learn web-jitsu? Click on `Fork` and then open the branch `level-1` in the repository you just forked.
