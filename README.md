@@ -1,4 +1,4 @@
-# dojo-1
+# level-1
 
 JS first steps. Getting to know Github Issue-Tracker, Git, JS and Atom.
 
